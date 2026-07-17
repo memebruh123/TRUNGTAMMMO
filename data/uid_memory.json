@@ -1,0 +1,23 @@
+{
+    "4": {
+        "name": "Mark Zuckerberg",
+        "last_status": "LIVE",
+        "timestamp": 1772503496,
+        "start_time": 1772501395,
+        "last_status_change": 1772501395
+    },
+    "100002365893601": {
+        "name": "tiến",
+        "last_status": "DIE",
+        "timestamp": 1772503496,
+        "start_time": 1772501394,
+        "last_status_change": 1772501394
+    },
+    "100090044882916": {
+        "name": "tiến",
+        "last_status": "DIE",
+        "timestamp": 1772503496,
+        "start_time": 1772501395,
+        "last_status_change": 1772501395
+    }
+}

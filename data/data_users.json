@@ -1,0 +1,88 @@
+{
+    "5976831676": {
+        "balance": 4999640000,
+        "vip_expiry": 0,
+        "vip_active": false,
+        "level": 1,
+        "stats": {
+            "done": 0,
+            "cancel": 2,
+            "tracking": 14,
+            "money_generated": 0
+        },
+        "active_discount_code": null,
+        "active_bonus_days_code": null,
+        "active_discount_code_time": null,
+        "active_bonus_days_code_time": null,
+        "referral_code": null,
+        "referral_stats": {
+            "total_referrals": 0,
+            "total_earned": 0
+        },
+        "referral_vip_discount": 0,
+        "isSupport": false
+    },
+    "7096981755": {
+        "balance": 0,
+        "vip_expiry": 0,
+        "vip_active": false,
+        "level": 1,
+        "stats": {
+            "done": 0,
+            "cancel": 0,
+            "tracking": 0,
+            "money_generated": 0
+        },
+        "active_discount_code": null,
+        "active_bonus_days_code": null,
+        "active_discount_code_time": null,
+        "active_bonus_days_code_time": null,
+        "referral_code": null,
+        "referral_stats": {
+            "total_referrals": 0,
+            "total_earned": 0
+        },
+        "referral_vip_discount": 0,
+        "isSupport": false
+    },
+    "8272658745": {
+        "0": "B",
+        "1": "u",
+        "2": "i",
+        "3": " ",
+        "4": "T",
+        "5": "h",
+        "6": "i",
+        "7": " ",
+        "8": "T",
+        "9": "r",
+        "10": "u",
+        "11": "c",
+        "12": " ",
+        "13": "L",
+        "14": "y",
+        "balance": 0,
+        "vip_expiry": 0,
+        "vip_active": false,
+        "level": 1,
+        "stats": {
+            "done": 0,
+            "cancel": 0,
+            "tracking": 0,
+            "money_generated": 0
+        },
+        "active_discount_code": null,
+        "active_bonus_days_code": null,
+        "active_discount_code_time": null,
+        "active_bonus_days_code_time": null,
+        "referral_code": null,
+        "referral_stats": {
+            "total_referrals": 0,
+            "total_earned": 0
+        },
+        "referral_vip_discount": 0,
+        "referrer": null,
+        "created_at": 1772501788,
+        "isSupport": false
+    }
+}

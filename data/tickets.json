@@ -1,0 +1,43 @@
+{
+    "T1769152825720_5976831676": {
+        "id": "T1769152825720_5976831676",
+        "userId": 5976831676,
+        "type": "AI",
+        "status": "CLOSED",
+        "created_at": 1769152825,
+        "closed_at": 1769152920,
+        "messages": [
+            {
+                "role": "user",
+                "content": "ok e",
+                "time": 1769152838
+            },
+            {
+                "role": "bot",
+                "content": "Dạ, em chào anh/chị! 😊\n\nAnh/chị cần em hỗ trợ gì ạ? Hiện tại hệ thống có các tính năng chính:\n- Check UID Facebook (Live/Die, thông tin profile)\n- Dịch vụ VIP để check không giới hạn và nhanh hơn\n- Nạp tiền tự động qua ngân hàng\n\nAnh/chị có thể dùng Menu hoặc gõ lệnh như /check, /deposit để sử dụng ạ!",
+                "time": 1769152844
+            }
+        ],
+        "summary": "User closed chat"
+    },
+    "T1769153206743_5976831676": {
+        "id": "T1769153206743_5976831676",
+        "userId": 5976831676,
+        "type": "HUMAN",
+        "status": "OPEN",
+        "created_at": 1769153206,
+        "closed_at": null,
+        "messages": [],
+        "summary": null
+    },
+    "T1769153209480_5976831676": {
+        "id": "T1769153209480_5976831676",
+        "userId": 5976831676,
+        "type": "AI",
+        "status": "CLOSED",
+        "created_at": 1769153209,
+        "closed_at": 1769153214,
+        "messages": [],
+        "summary": "User closed chat"
+    }
+}

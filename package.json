@@ -1,0 +1,38 @@
+{
+  "name": "telegram-uid-checker-bot",
+  "version": "2.0.0",
+  "description": "Telegram Bot for Facebook UID Tracking - Node.js Version",
+  "main": "bottt.js",
+  "scripts": {
+    "start": "node bottt.js",
+    "dev": "nodemon bottt.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "facebook",
+    "uid",
+    "checker"
+  ],
+  "author": "TRUNG TAM MMO ",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node-telegram-bot-api": "^0.64.14",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.6.1",
+    "https-proxy-agent": "^7.0.6",
+    "node-telegram-bot-api": "^0.66.0",
+    "p-limit": "^3.1.0",
+    "proper-lockfile": "^4.1.2"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
